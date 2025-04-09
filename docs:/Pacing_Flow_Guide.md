@@ -4,5 +4,3 @@
 ## Workflow
 1. Pulls metrics: Impressions, CTR, Spend via Basis API.
 2. Updates Excel templates (see mock output below).
-
-[Download Mock Excel Template](./mock%20data/Mock%20Pacing%20Doc.xlsx)
