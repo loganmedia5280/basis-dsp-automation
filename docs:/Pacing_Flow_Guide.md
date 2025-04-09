@@ -5,4 +5,4 @@
 1. Pulls metrics: Impressions, CTR, Spend via Basis API.
 2. Updates Excel templates (see mock output below).
 
-![Mock Excel Update](mock_data/Mock_Pacing_Doc.xlsx) *[Download Example File](mock_data/Mock_Pacing_Doc.xlsx)*
+[Download Mock Excel Template](./mock data/Mock Pacing Doc.xlsx)
